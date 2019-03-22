@@ -1,0 +1,10 @@
+README
+Created Fri Mar 22 14:15:50 AKDT 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+resolving-dependencies.txt
+  # aptitude -o APT::Get::Fix-Missing=true install libreoffice
+  Resolving dependencies in apt
